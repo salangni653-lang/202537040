@@ -1,0 +1,12 @@
+total 19
+drwxr-xr-x 1 YUHAN 197121  0 Apr 30 15:04 ./
+drwxr-xr-x 1 YUHAN 197121  0 Apr 30 13:14 ../
+drwxr-xr-x 1 YUHAN 197121  0 Apr 30 15:04 .git/
+drwxr-xr-x 1 YUHAN 197121  0 Apr 30 14:43 202537040/
+-rw-r--r-- 1 YUHAN 197121  0 Apr 30 15:04 3way.txt
+-rw-r--r-- 1 YUHAN 197121 11 Apr  9 14:40 README.md
+-rw-r--r-- 1 YUHAN 197121  0 Apr  9 14:40 a.txt
+-rw-r--r-- 1 YUHAN 197121  0 Apr  9 14:40 b.txt
+-rw-r--r-- 1 YUHAN 197121  0 Apr  9 14:40 c.txt
+-rw-r--r-- 1 YUHAN 197121 60 Apr 30 14:48 ls1.txt
+-rw-r--r-- 1 YUHAN 197121 60 Apr 30 14:48 z.txt
