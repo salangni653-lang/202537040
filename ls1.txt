@@ -1,7 +1,11 @@
-202537040/
-README.md
-a.txt
-b.txt
-c.txt
-ls1.txt
-z.txt
+total 9
+drwxr-xr-x 1 YUHAN 197121   0 Apr 30 14:43 202537040/
+-rw-r--r-- 1 YUHAN 197121 558 Apr 30 15:08 3way.txt
+-rw-r--r-- 1 YUHAN 197121  11 Apr  9 14:40 README.md
+-rw-r--r-- 1 YUHAN 197121   0 Apr  9 14:40 a.txt
+-rw-r--r-- 1 YUHAN 197121   0 Apr  9 14:40 b.txt
+-rw-r--r-- 1 YUHAN 197121   0 Apr  9 14:40 c.txt
+-rw-r--r-- 1 YUHAN 197121   0 May  7 14:16 ls1.txt
+-rw-r--r-- 1 YUHAN 197121 621 May  7 13:37 ls2.txt
+-rw-r--r-- 1 YUHAN 197121 111 May  7 13:41 ls3.txt
+-rw-r--r-- 1 YUHAN 197121  60 Apr 30 14:48 z.txt
